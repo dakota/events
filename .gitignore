@@ -1,0 +1,6 @@
+/events/plugins/*
+/events/vendor/*
+/events/config/app.php
+/events/tmp/*
+/events/logs/*
+/.vagrant/*
